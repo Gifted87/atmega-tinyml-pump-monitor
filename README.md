@@ -106,9 +106,6 @@ This repository contains the firmware and supporting files for a predictive main
 -   Implement `tests/` including Modbus fuzz testing.
 -   Add Grafana dashboards (`deploy/grafana/`) via a gateway device (e.g., ESP32/Raspberry Pi reading Modbus).
 -   Investigate low-power modes between sampling intervals.
-```
-
----
 
 **Placeholder Directories/Files:**
 
